@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 Shahed Anzarus Sabab
 email: sababsa@myumanitoba.ca
 portfolio: https://shahedsabab.github.io/shahed_portfolio/
-=======
-# OPTION #1​: ​Building a question classification system
->>>>>>> 02c14746c80e48004b91afc83cb279870ee38165
 
-# OPTION #1​: ​Building a question classification system
+# OPTION #1:Building a question classification system
 
 The objective is to build a question classification model. The questions have six different categories such as: Description(DESC), Entity(ENTY), Abbreviation(ABBR), Human(HUM), Location(LOC), Numeric Value(NUM).
 
@@ -42,16 +38,5 @@ This file requires other dependencies,which have be to under the same directory.
 
 > glove.6B.100d.txt (Word embedding for the LSTM model)
 
-<<<<<<< HEAD
 > bert_en_uncased_L-24_H-1024_A-16_1.tar.gz (BERT layer)
-=======
-train5.csv (training data)
 
-test.csv (testing data)
-
-tokenization.py (tokenizer for the BERT model)
-
-glove.6B.100d.txt (Word embedding for the LSTM model)
-
-bert_en_uncased_L-24_H-1024_A-16_1.tar.gz (BERT layer)
->>>>>>> 02c14746c80e48004b91afc83cb279870ee38165
