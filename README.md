@@ -1,4 +1,4 @@
-OPTION #1​: ​Building a question classification system
+# OPTION #1​: ​Building a question classification system
 
 The objective is to build a question classsfication model. The questions have six different categories such as: Description(DESC), Entity(ENTY), Abbreviation(ABBR), Human(HUM), Location(LOC), Numeric Value(NUM).
 
@@ -22,7 +22,11 @@ Different data analyses have been performed and four different models are traine
 Please check the Question_Classification.ipynb file for the detailed analysis. This file requires other dependencies which has be to under same directory. The dependencies are as follows:
 
 train5.csv (training data)
+
 test.csv (testing data)
+
 tokenization.py (tokenizer for the BERT model)
+
 glove.6B.100d.txt (Word embedding for the LSTM model)
+
 bert_en_uncased_L-24_H-1024_A-16_1.tar.gz (BERT layer)
