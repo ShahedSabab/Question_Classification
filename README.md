@@ -18,16 +18,13 @@ Different data analyses have been performed and four different models are traine
 4. BERT: The transfer learning approach is followed by using pre-trained BERT-Large, Uncased(24-layer, 1024-hidden, 16-heads, 340M parameters). The hyperparameters are refined by following https://github.com/google-research/bert article. The google tokenizer (https://github.com/google-research/bert/blob/master/tokenization.py) is used for tokenizing the texts. Overall, the best performance is achieved from this model is accuracy: 99%.
 
 # Performance
-<img src="data_distribution.PNG" width="50%">
+<img src="data_distribution.PNG" width="60%">
 
-<img src="visualization.PNG" width="50%">
+<img src="visualization.PNG" width="60%">
 
 <img src="cm_svm.PNG" width="30%">
-
 <img src="cm_lr.PNG" width="30%">
-
 <img src="cm_lstm.PNG" width="30%">
-
 <img src="cm_bert.PNG" width="30%">
 
 <img src="performance.PNG" width="40%">
