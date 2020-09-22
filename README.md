@@ -1,9 +1,4 @@
-Shahed Anzarus Sabab
-email: sababsa@myumanitoba.ca
-portfolio: https://shahedsabab.github.io/shahed_portfolio/
-
-# OPTION #1:Building a question classification system
-
+# Building a question classification system
 The objective is to build a question classification model. The questions have six different categories such as: Description(DESC), Entity(ENTY), Abbreviation(ABBR), Human(HUM), Location(LOC), Numeric Value(NUM).
 
 # Strategy:
