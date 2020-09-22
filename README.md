@@ -28,7 +28,11 @@ Please check the Question_Classification.ipynb file for the detailed analysis. T
 https://colab.research.google.com/drive/1SqGSdFJYKjxgXkIQGrZDFHd1bFyoco0o?usp=sharing
 
 
-This file requires other dependencies,which have be to under the same directory. The dependencies are as follows:
+This file requires other dependencies,which have be to under the same directory. The dependencies can be found in the following link:
+
+https://drive.google.com/drive/folders/1Ra3pS_6zP4BKebKJ001Dlt34VFtqWgoV?usp=sharing
+
+The dependencies are as follows:
 
 > train5.csv (training data)
 
