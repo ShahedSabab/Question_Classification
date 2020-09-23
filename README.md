@@ -21,10 +21,10 @@ Different data analyses have been performed and four different models are traine
 <img src="data_distribution.PNG" width="60%">
 
 <img src="visualization.PNG" width="60%">
-![](cm_svm.PNG)
-![](cm_lr.PNG)
-![](cm_lstm.PNG)
-![](cm_bert.PNG)
+<img src="cm_svm.PNG" width="30%">
+<img src="cm_lr.PNG" width="30%">
+<img src="cm_lstm.PNG" width="30%">
+<img src="cm_bert.PNG" width="30%">
 <img src="performance.PNG" width="40%">
 
 # How to Run:
