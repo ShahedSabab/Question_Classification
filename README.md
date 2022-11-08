@@ -1,5 +1,5 @@
-# Building a question classification system
-The objective is to build a question classification model. The questions have six different categories such as: Description(DESC), Entity(ENTY), Abbreviation(ABBR), Human(HUM), Location(LOC), Numeric Value(NUM).
+# AskMe
+Ask Me is a question classification system. The questions have six different categories such as: Description(DESC), Entity(ENTY), Abbreviation(ABBR), Human(HUM), Location(LOC), Numeric Value(NUM). The objective is to detect the correct category that users ask.
 
 # Strategy:
 To investigate different approaches, the following data is used (downloaded from https://cogcomp.seas.upenn.edu/Data/QA/QC/):
